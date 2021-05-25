@@ -8,6 +8,6 @@ This game of noughts and crosses is capable of the following:
 
 <div align="center">
 
-![alt text](../OXO-board.png)
+![alt text](images/OXO-board.png)
 
 </div>
