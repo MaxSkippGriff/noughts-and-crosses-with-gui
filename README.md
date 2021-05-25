@@ -2,9 +2,9 @@
 
 This game of noughts and crosses is capable of the following:
 
- *   > Handling different board sizes
- *   > Scaling to include multiple players
- *   > Changing different win thresholds
+ * Handling different board sizes
+ * Scaling to include multiple players
+ * Changing different win thresholds
 
 <div align="center">
 
